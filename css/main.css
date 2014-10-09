@@ -67,7 +67,8 @@ header {
 	background-color: #FA5A0F;
 	color: #FFFFFF;
 	border-bottom-style: solid;
-	border-bottom: 5px, #EA4A00;
+	border-bottom-size: 5px;
+	border-bottom-color: #EA4A00;
 }
 
 .tag-line {
@@ -99,7 +100,8 @@ footer {
 	font-size: 80%;
 	text-align: right;
 	border-top-style: solid;
-	border-top: 5px, #EC791F;
+	border-top-size: 5px;
+	border-top-color: #EC791F;
 }
 
 
